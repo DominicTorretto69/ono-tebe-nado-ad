@@ -95,14 +95,6 @@
   background-color: rgb(0 0 0 / 0.6);
 }
 
-/* overlay внутри карточек лотов */
-.card .overlay {
-  position: absolute;
-  inset: 0;
-  z-index: 1;
-  background-color: rgb(0 0 0 / 0.6);
-}
-
 .cover__title {
   position: relative;
   z-index: 1;
@@ -243,7 +235,7 @@
   width: fit-content;
   margin: 30px 0 0 40px;
   border-bottom: 1px solid #000;
-  color: #000;
+  color: #000000;
   font-family: "Raleway", sans-serif;
   font-size: 20px;
   font-weight: 400;
